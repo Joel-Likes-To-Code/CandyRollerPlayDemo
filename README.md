@@ -1,5 +1,11 @@
 # CandyRollerPlayDemo
 
+## About
+This is a game I made in 2 days to challenge myself to learn how game development works on unity. It is just a single level I might work on it again in the future. 
+
+The game involves controlling a gumball and traveling to the exit. 
+
+
 ## [Important!!] WebGL2.0
 
 The game might be not run smoothly if you do not enable the WebGL2.0 on your chromium browser. Here is a link to an [Article](https://www.interplaylearning.com/en/help/how-to-enable-webgl-in-chrome) that allows you to fix that. Also make sure to allow the browser to enable the "Use hardware acceleration when available".
